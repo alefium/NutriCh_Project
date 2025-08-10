@@ -1,0 +1,16 @@
+[
+    {
+      "questions": [
+        "What is the biggest city in the world?",
+        "What is the city in the World that is the most populous?"
+      ],
+      "answer": "The biggest city in the world is Tokyo, Japan."
+    },
+    {
+      "questions": [
+        "What is the capital of Portugal?",
+        "Which is an European capital on the Atlantic Ocean?"
+      ],
+      "answer": "Lisboa."
+    }
+]

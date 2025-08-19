@@ -99,3 +99,5 @@ tmp/
 config.ini
 secrets.json
 .secrets
+
+vector_db/
